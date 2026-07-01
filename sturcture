@@ -1,0 +1,30 @@
+// ecommerce-app/
+// │
+// ├── backend/
+// │   ├── models/
+// │   │   ├── User.js
+// │   │   ├── Product.js
+// │   │   └── Order.js
+// │   │
+// │   ├── routes/
+// │   │   ├── authRoutes.js
+// │   │   ├── productRoutes.js
+// │   │   └── orderRoutes.js
+// │   │
+// │   ├── middleware/
+// │   │   └── authMiddleware.js
+// │   │
+// │   ├── server.js
+// │   └── .env
+// │
+// └── frontend/
+//     ├── src/
+//     │   ├── pages/
+//     │   ├── components/
+//     │   ├── services/
+//     │   └── App.jsx
+
+
+
+    
+        
