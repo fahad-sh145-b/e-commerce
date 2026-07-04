@@ -15,6 +15,13 @@ app.use(bodyParser.json());
 
 const PORT = process.env.PORT || 3000;
 
+
+app.get('/' ,function (req,res){
+
+        res.send("hello")
+
+})
+
 const userRoutes = require('./routes/userRoutes');
 
 const productRoutes = require('./routes/productRoutes');
